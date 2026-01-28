@@ -96,3 +96,11 @@ All **core logic, flow design, state management decisions, and debugging** were 
 ### Summary
 
 This project fulfills all assignment requirements with a focus on clean architecture, predictable state management, and clear separation of concerns.
+
+
+## Demo Video
+
+A short video demonstrating the complete flow of the application (Email → OTP → Session → Logout):
+
+▶️ **Watch Demo Video:**  
+https://drive.google.com/file/d/1NqzElXXKMBc9oioOXpKr_-_w_fIIIG8j/view?usp=sharing
